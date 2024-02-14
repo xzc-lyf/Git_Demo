@@ -12,5 +12,8 @@ hello xzc! Hello World!
 hello xzc! Hello World!
 hello xzc! Hello World!
 hello xzc! Hello World!
+<<<<<<< HEAD
 hello xzc! Hello World! master test
-hello xzc! Hello World!
+=======
+hello xzc! Hello World! hot-fix test
+>>>>>>> hot-fix
